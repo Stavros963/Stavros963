@@ -1,18 +1,24 @@
-# Welcome to Stavros963's GitHub!
-
 Hi there! 👋
 
-I'm Stavros, and while I may not be a coding expert, I am deeply fascinated by the realms of machine learning, artificial intelligence, and multi-agent system applications in real-life scenarios. 
+I'm Stavros, an independent researcher in computational neuroscience and machine learning, based in Lausanne, Switzerland. My work sits at the intersection of biologically grounded AI architectures and applied multi-agent systems, with a focus on real-world deployment in healthcare and executive performance contexts.
 
-### About Me
-- **Background:** Coming from an industry where applying these advanced technologies could significantly streamline processes and enhance decision-making, I see immense potential and opportunities for innovation.
-- **Interests:** My primary interests lie in exploring how AI and machine learning can be leveraged to solve practical problems and improve efficiencies in various domains.
-- **Collaboration:** I thoroughly enjoy interacting with people and exchanging ideas. Collaboration is key to unlocking new possibilities and driving impactful change.
+## About Me
 
-### What You’ll Find Here
-On this GitHub page, you’ll discover my journey through the world of AI and machine learning. I’ll be sharing projects, experiments, and insights as I continue to learn and grow in this exciting field.
+- **Background:** PhD in Neurobiology (University of Basel), postdoctoral training at the University of Pennsylvania (Eberwine lab), and Assistant Professor years at the University of Rochester. Founder of Diagnoplex SA, a Swiss biotech that raised CHF 25'000'000 and reached CE-mark approval for a blood-based colorectal cancer screening assay. Currently CEO of O2score and founder of Therianos Advisory.
 
-Feel free to connect with me, share your thoughts, or collaborate on projects. Let's make technology work for us and create meaningful advancements together!
+- **Interests:** Connectome-derived graph architectures, JEPA-style world models, neuromodulation in machine learning, multi-agent systems, and applied AI in healthcare and decision support.
+
+- **Current research:** *Connectome-Derived Graph World Models with Neuromodulatory Gating (CDG-WM).* Investigating whether sparse recurrent graphs derived from the Drosophila connectome, combined with biologically inspired modulatory state switching, produce world models that adapt faster to distribution shift than dense architectures of equivalent parameter count. Manuscript in preparation; arXiv preprint forthcoming.
+
+- **Collaboration:** I value direct, peer-level exchange. Open to discussions with researchers in computational neuroscience, world models, graph neural networks, or applied AI in clinical and operational settings.
+
+## What You'll Find Here
+
+Public repositories will be released alongside the arXiv preprint. Until then, this page serves as a contact and reference point.
+
+- ORCID: [0009-0007-1500-9779](https://orcid.org/0009-0007-1500-9779)
+- Location: Lausanne, Switzerland
+- For collaboration inquiries, reach out via the email associated with this account.
 
 ---
 
