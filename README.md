@@ -1,14 +1,14 @@
 Hi there! 👋
 
-I'm Stavros, an independent researcher in computational neuroscience and machine learning, based in Lausanne, Switzerland. My work sits at the intersection of biologically grounded AI architectures and applied multi-agent systems, with a focus on real-world deployment in healthcare and executive performance contexts.
+I'm Stavros, an independent researcher in computational neuroscience and machine learning, based in Lausanne, Switzerland. My work sits at the intersection of biologically grounded AI architectures and applied AI systems, with a focus on real-world deployment in healthcare and executive performance contexts.
 
 ## About Me
 
 - **Background:** PhD in Neurobiology (University of Basel), postdoctoral training at the University of Pennsylvania (Eberwine lab), and Assistant Professor years at the University of Rochester. Founder of Diagnoplex SA, a Swiss biotech that raised CHF 25'000'000 and reached CE-mark approval for a blood-based colorectal cancer screening assay. Currently CEO of O2score and founder of Therianos Advisory.
 
-- **Interests:** Connectome-derived graph architectures, JEPA-style world models, neuromodulation in machine learning, multi-agent systems, and applied AI in healthcare and decision support.
+- **Interests:** Connectome-derived graph architectures, world model systems, biological inductive biases in machine learning, multi-agent systems, and applied AI in healthcare and decision support.
 
-- **Current research:** *Connectome-Derived Graph World Models with Neuromodulatory Gating (CDG-WM).* Investigating whether sparse recurrent graphs derived from the Drosophila connectome, combined with biologically inspired modulatory state switching, produce world models that adapt faster to distribution shift than dense architectures of equivalent parameter count. Manuscript in preparation; arXiv preprint forthcoming.
+- **Current research:** Connectome-derived graph architectures for predictive systems. Investigating whether sparse, community-structured topologies derived from the Drosophila connectome (and more to come), used as architectural priors in machine learning systems, confer measurable advantages over homogeneous architectures in the regime of distribution shift in environment dynamics. Manuscript in preparation; arXiv preprint forthcoming.
 
 - **Collaboration:** I value direct, peer-level exchange. Open to discussions with researchers in computational neuroscience, world models, graph neural networks, or applied AI in clinical and operational settings.
 
