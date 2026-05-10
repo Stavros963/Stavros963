@@ -4,7 +4,7 @@ I'm Stavros, an independent researcher in computational neuroscience and machine
 
 ## About Me
 
-- **Background:** PhD in Neurobiology (University of Basel), postdoctoral training at the University of Pennsylvania (Eberwine lab), and Assistant Professor years at the University of Rochester. Founder of Diagnoplex SA, a Swiss biotech that raised CHF 25'000'000 and reached CE-mark approval for a blood-based colorectal cancer screening assay. Currently CEO of O2score and founder of Therianos Advisory.
+- **Background:** MSc in Psychology (University of Lausanne), PhD in Neurobiology (University of Basel), postdoctoral training at the University of Pennsylvania (Eberwine lab), and Assistant Professor years at the University of Rochester. Founder of Diagnoplex SA, a Swiss biotech that raised CHF 25'000'000 and reached CE-mark approval for a blood-based colorectal cancer screening assay. Currently CEO of O2score and founder of Therianos Advisory.
 
 - **Interests:** Connectome-derived graph architectures, world model systems, biological inductive biases in machine learning, multi-agent systems, and applied AI in healthcare and decision support.
 
